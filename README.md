@@ -2,6 +2,11 @@
 My first repository
 # My favorite tv series
 It is the **Peaky Blinders** because the show has *unique* characters such as the Shelby brothers:
+- Thomas
+- Arthur
+- John
+- Finn
+- 
 > Thomas
 > Arthur
 > John
